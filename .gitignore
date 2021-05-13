@@ -1,0 +1,21 @@
+# Xcode
+#
+
+# OS X Finder
+.DS_Store
+
+# Xcode per-user config
+*.pbxuser
+xcuserdata
+*.xcuserstate
+
+# Build products
+build/
+
+# Automatic backup files
+*~.nib/
+*.swp
+*~
+*.dat
+*.dep
+*.orig
