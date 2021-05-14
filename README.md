@@ -1,6 +1,6 @@
 #WeatherApp
 
-WeatherApp is written in swift for iPhone.
+WeatherApp is written in swift for iPhone, using MVVM design pattern with core data for caching the weather details of recent cities
 
 #Features:
 
